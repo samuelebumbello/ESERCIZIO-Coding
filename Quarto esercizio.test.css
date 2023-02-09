@@ -1,0 +1,85 @@
+*{
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(https://ssl.gstatic.com/ui/v1/icons/mail/themes/desk/bg2_1920x1200.jpg);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.CONTAINER{
+    width: 1000px;
+    margin: auto;
+}
+
+.LOGO{
+    width: 200px;
+}
+
+#LOGO-TEXT{
+    font-size: 30px;
+    color: white;
+    display: inline-block;
+}
+
+nav{
+    margin: 10px 0;
+}
+
+#NOTIFICA{
+    color: white;
+    font-size: 25px;
+    margin: auto;
+}
+
+#NUMERO30{
+    background-color: orange;
+    border-radius:  50%;
+}
+
+#lista-main{
+    background-color: rgb(209, 209, 209);
+    border: 1px solid black;
+    margin-top: 10px;
+}
+
+.riga-mail{
+    border: 1px solid black;
+    padding: 2px 6px;
+}
+
+h6{
+    display: inline-block;
+    font-size: 18px;
+    width: 35%;
+}
+
+p{
+    display: inline-block;
+    color: rgb(138, 138, 138);
+}
+
+.oggetto-mail{
+    width: 35%;
+}
+
+#ultimariga{
+    margin-top: 9px;
+}
+
+.gmail-footer{ 
+    color: white;
+    display: inline-block;
+}
+
+.p-footer{ 
+    color: white;
+    display: inline-block;
+}
+
+.crediti{
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+}
